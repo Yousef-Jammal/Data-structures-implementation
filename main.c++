@@ -9,6 +9,6 @@ int main() {
   y = &x; 
   cout << x << endl;
   cout << y << endl;
-
+  
   return 0;
 }
